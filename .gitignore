@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Build files
+dist/
+
+# Logs
+*.log
+
+# Environment files
+*.env
+
+# Image assets (optional)
+images/
